@@ -1,0 +1,169 @@
+body {
+    padding: 0;
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+    color: black;
+    font-size: 16px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    padding: 0;
+    margin: 0;
+    text-transform: uppercase;
+}
+
+ul, li {
+    display: block;
+}
+
+.container {
+    width: 1800px;
+    /* позиционирование по центру */
+    margin: 0 auto;
+}
+
+
+
+
+
+/* первый блок */
+
+
+
+
+
+
+.header {
+    background: grey;
+    padding: 40px;
+}
+
+header a {
+    color: #ffffff;
+}
+
+.menu {
+    display: flex;
+}
+
+.menu li a:hover {
+    color: #45ff00;
+}
+
+.menu li a {
+    text-decoration: none;
+    font-size: 16px;
+    letter-spacing: 0.03em;
+    transition: color 0.3s linear;
+}
+
+.menu li {
+    margin-right: 40px;
+}
+
+.pod {
+    background-color: #45ff00;
+    color: white;
+    text-decoration: none;
+    padding: 14px 18px;
+    
+
+    font-size: 17px;
+    text-decoration: none;
+    margin-left: auto;
+    letter-spacing: 0.05em;
+    transition: background-color 0.2s linear;
+}
+
+.pod:hover {
+    background-color: #36c700;
+}
+
+.nav {
+    display: flex;
+    align-items: center;
+}
+
+.name {
+    position: relative;
+}
+
+.name1 {
+    color: #45ff00;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Tinos', serif;
+    font-size: 50px;
+    font-weight: 400;
+    
+    text-align: center;
+    left: 0;
+    
+    margin-top: 80px;
+}
+
+.personal {
+    text-align: center;
+}
+
+
+
+
+
+/* "ахк мвд" блок */
+
+
+
+
+
+
+section {
+    padding-top: 50px;
+}
+
+.about {
+    background: #45ff00;
+    height: 300px;
+    width: auto;
+}
+
+
+.mvd {
+    display: flex;
+}
+
+.mvd-text {
+    font-size: 25px;
+    width: 600px;
+    margin-left: 400px;
+}
+
+.mvd p {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300px;
+    text-align: justify;
+
+}
+
+.mvd-img {
+    transition: transform 0.4s;
+}
+
+.mvd-img:hover {
+    transform: scale(1.1);
+}
+
+.I {
+    text-decoration: none;
+    color: #0a7d00;
+}
+
+
+
+
+
+/* последний блок */
+
+
+
+
+

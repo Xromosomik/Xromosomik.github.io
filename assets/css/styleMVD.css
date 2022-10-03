@@ -1,0 +1,188 @@
+body {
+    padding: 0;
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+    color: black;
+    font-size: 30px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    padding: 0;
+    margin: 0;
+    text-transform: uppercase;
+}
+
+ul, li {
+    display: block;
+}
+
+.container {
+    width: 1800px;
+    /* позиционирование по центру */
+    margin: 0 auto;
+}
+
+
+
+
+
+/* первый блок */
+
+
+
+
+
+
+.header {
+    background: grey;
+    padding: 40px;
+}
+
+header a {
+    color: #ffffff;
+}
+
+.menu {
+    display: flex;
+}
+
+.menu li a:hover {
+    color: #45ff00;
+}
+
+.menu li a {
+    text-decoration: none;
+    font-size: 16px;
+    letter-spacing: 0.03em;
+    transition: color 0.3s linear;
+}
+
+.menu li {
+    margin-right: 40px;
+}
+
+.pod {
+    background-color: #45ff00;
+    color: white;
+    text-decoration: none;
+    padding: 14px 18px;
+    
+
+    font-size: 17px;
+    text-decoration: none;
+    margin-left: auto;
+    letter-spacing: 0.05em;
+    transition: background-color 0.2s linear;
+}
+
+.pod:hover {
+    background-color: #36c700;
+}
+
+.nav {
+    display: flex;
+    align-items: center;
+}
+
+.name {
+    position: relative;
+}
+
+.name1 {
+    color: #45ff00;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Tinos', serif;
+    font-size: 50px;
+    font-weight: 400;
+    
+    text-align: center;
+    left: 0;
+    
+    margin-top: 80px;
+}
+
+.personal {
+    text-align: center;
+}
+
+.container1 {
+    width: 900px;
+    /* позиционирование по центру */
+    margin: 0 auto;
+}
+
+.text {
+    font-size: 45px;
+    text-align: center;
+}
+
+.text1 {
+    background-color: #45ff00;
+    color: white;
+    text-decoration: none;
+    padding: 0px 5px;
+    text-decoration: none;
+    border-radius: 10px;
+}
+
+.text2 {
+    background-color: #45ff00;
+    color: white;
+    text-decoration: none;
+    padding: 0px 5px;
+    text-decoration: none;
+    border-radius: 10px;
+}
+
+.text1:hover {
+    background-color: #36c700;
+}
+
+.text2:hover {
+    background-color: #36c700;
+}
+
+.container2 {
+    padding: 40px;
+    width: 300px;
+    /* позиционирование по центру */
+    margin: 0 auto;
+}
+
+
+
+
+.container3 {
+    padding: 40px;
+    width: 600px;
+    /* позиционирование по центру */
+    margin: 0 auto;
+}
+
+.header1 {
+    background: grey;
+    padding: 40px;
+}
+
+.pod1 {
+    background-color: #45ff00;
+    color: white;
+    text-decoration: none;
+    padding: 14px 18px;
+    
+
+    font-size: 25px;
+    text-decoration: none;
+    margin-left: auto;
+    letter-spacing: 0.05em;
+    transition: background-color 0.2s linear;
+}
+
+.pod1:hover {
+    background-color: #36c700;
+}
+
+.nav1 {
+    display: flex;
+    align-items: center;
+}

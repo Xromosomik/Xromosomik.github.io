@@ -1,0 +1,25 @@
+@media only screen and (max-width: 1500px) {
+    /* */
+}
+
+@media only screen and (max-width: 1200px) {
+    /* */
+}
+
+@media only screen and (max-width: 992px) {
+    /* */
+}
+
+@media only screen and (max-width: 768px) {
+    /* */
+}
+
+@media only screen and (max-width: 480px) {
+    #about > .mvd{
+        max-width: 50%;
+    }
+}
+
+@media only screen and (max-width: 320px) {
+    /* */
+}
