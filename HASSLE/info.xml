@@ -1,0 +1,191 @@
+<game>CR:MP</game>
+<name>RADMIR</name>
+<status>1</status>
+<libs_build>3</libs_build>
+
+<build>257</build>
+<torrent_hash>4f2adf13e18e6c4bbcea2852e5e4f8d7</torrent_hash>
+<files_hash>aa3b57aff4127f1184e8df8411e5e14e</files_hash>
+
+<update_build>72</update_build>
+<update_torrent_hash>3e3c4ce50048df5d97e4ec6d2b7ac98a</update_torrent_hash>
+
+<servers>
+	
+	<server id="1">
+		<name>SERVER 1</name>
+		<ip>185.169.134.139</ip>
+		<port>7777</port>
+		<sockets>1</sockets>
+		<socket_port>8001</socket_port>
+		<start_build>35</start_build>
+		<end_build>35</end_build>
+	</server>
+	
+	<server id="2">
+		<name>SERVER 2</name>
+		<ip>185.169.134.140</ip>
+		<port>7777</port>
+		<sockets>1</sockets>
+		<socket_port>8004</socket_port>
+		<start_build>35</start_build>
+		<end_build>35</end_build>
+	</server>
+	
+	<server id="3">
+		<name>SERVER 3</name>
+		<ip>80.66.71.76</ip>
+		<port>7777</port>
+		<sockets>1</sockets>
+		<socket_port>8004</socket_port>
+		<start_build>35</start_build>
+		<end_build>35</end_build>
+	</server>
+	
+	<server id="4">
+		<name>SERVER 4</name>
+		<ip>80.66.71.77</ip>
+		<port>7777</port>
+		<sockets>1</sockets>
+		<socket_port>8001</socket_port>
+		<start_build>35</start_build>
+		<end_build>35</end_build>
+	</server>
+	
+	<server id="5">
+		<name>SERVER 5</name>
+		<ip>185.169.134.35</ip>
+		<port>7777</port>
+		<sockets>1</sockets>
+		<socket_port>8001</socket_port>
+		<start_build>35</start_build>
+		<end_build>35</end_build>
+	</server>
+	
+	<server id="6">
+		<name>SERVER 6</name>
+		<ip>185.169.134.36</ip>
+		<port>7777</port>
+		<sockets>1</sockets>
+		<socket_port>8001</socket_port>
+		<start_build>35</start_build>
+		<end_build>35</end_build>
+	</server>
+	
+	<server id="7">
+		<name>SERVER 7</name>
+		<ip>80.66.71.74</ip>
+		<port>7777</port>
+		<sockets>1</sockets>
+		<socket_port>8001</socket_port>
+		<start_build>35</start_build>
+		<end_build>35</end_build>
+	</server>
+	
+	<server id="8">
+		<name>SERVER 8</name>
+		<ip>80.66.71.75</ip>
+		<port>7777</port>
+		<sockets>1</sockets>
+		<socket_port>8001</socket_port>
+		<start_build>35</start_build>
+		<end_build>35</end_build>
+	</server>
+	
+	<server id="9">
+		<name>SERVER 9</name>
+		<ip>185.169.134.123</ip>
+		<port>7777</port>
+		<start_build>35</start_build>
+		<end_build>35</end_build>
+	</server>
+	
+	<server id="10">
+		<name>SERVER 10</name>
+		<ip>185.169.134.124</ip>
+		<port>7777</port>
+		<start_build>35</start_build>
+		<end_build>35</end_build>
+	</server>
+	
+	<server id="11">
+		<name>SERVER 11</name>
+		<ip>80.66.71.80</ip>
+		<port>7777</port>
+		<start_build>35</start_build>
+		<end_build>35</end_build>
+	</server>
+	
+	<server id="12">
+		<name>SERVER 12</name>
+		<ip>80.66.71.81</ip>
+		<port>7777</port>
+		<start_build>35</start_build>
+		<end_build>35</end_build>
+	</server>
+	
+	<server id="13">
+		<name>SERVER 13</name>
+		<ip>80.66.71.78</ip>
+		<port>7777</port>
+		<start_build>35</start_build>
+		<end_build>35</end_build>
+	</server>
+	
+	<server id="14">
+		<name>SERVER 14</name>
+		<ip>80.66.71.79</ip>
+		<port>7777</port>
+		<start_build>35</start_build>
+		<end_build>35</end_build>
+	</server>
+	
+	<server id="15">
+		<name>SERVER 15</name>
+		<ip>80.66.71.82</ip>
+		<port>7777</port>
+		<start_build>35</start_build>
+		<end_build>35</end_build>
+	</server>
+	
+	<server id="16">
+		<name>SERVER 16</name>
+		<ip>80.66.71.83</ip>
+		<port>7777</port>
+		<start_build>35</start_build>
+		<end_build>35</end_build>
+	</server>
+	
+	<server id="17">
+		<name>SERVER 17</name>
+		<ip>80.66.71.84</ip>
+		<port>7777</port>
+		<start_build>35</start_build>
+		<end_build>35</end_build>
+	</server>
+	
+	<server id="18">
+		<name>SERVER 18</name>
+		<ip>80.66.71.61</ip>
+		<port>7777</port>
+		<start_build>35</start_build>
+		<end_build>35</end_build>
+	</server>
+	
+	<server id="19">
+		<name>SERVER 19</name>
+		<ip>80.66.71.71</ip>
+		<port>7777</port>
+		<start_build>35</start_build>
+		<end_build>35</end_build>
+	</server>
+
+	<server id="20">
+		<name>TEST SERVER</name>
+		<ip>5.39.108.55</ip>
+		<port>2081</port>
+		<start_build>35</start_build>
+		<end_build>35</end_build>
+	</server>
+	
+</servers>
